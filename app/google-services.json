@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "162236321229",
+    "firebase_url": "https://holteklamp.firebaseio.com",
+    "project_id": "holteklamp",
+    "storage_bucket": "holteklamp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162236321229:android:cecdf457daec0c4d",
+        "android_client_info": {
+          "package_name": "com.example.show"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162236321229-e9acqk62jd974898h0llttv5ak3ugvkv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.show",
+            "certificate_hash": "e32d31eb177adc744900b33b02471360d06efa7f"
+          }
+        },
+        {
+          "client_id": "162236321229-5vr7v22evahqgpnu91mnrmlletvsr9vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoqKagF6gN5kGRutjwzw-2Hq3xhoOmuvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162236321229-5vr7v22evahqgpnu91mnrmlletvsr9vd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

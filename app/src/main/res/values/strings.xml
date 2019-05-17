@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Show</string>
+    <string name="title_activity_sleep_set">SleepSetActivity</string>
+</resources>

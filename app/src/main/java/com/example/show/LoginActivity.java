@@ -35,7 +35,7 @@ public class LoginActivity extends AppCompatActivity {
         String userId = edUserId.getText().toString();
         String passwd = edPasswd.getText().toString();
 
-        if (passwd.length() <= 6) {
+        if (passwd.length() < 6) {
             edPasswd.setError("密碼需大於6位");
         }
 
